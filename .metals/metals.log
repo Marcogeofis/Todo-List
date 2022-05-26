@@ -1,0 +1,9 @@
+[0m2022.03.08 14:39:31 INFO  Started: Metals version 0.10.9 in workspace '/home/Jahrebel/Documentos/cursos_de_Platzi/Curso_html_css3_js/introducción_react/myproyect-app' for client Visual Studio Code 1.58.2.[0m
+[0m2022.03.08 14:39:34 INFO  time: initialize in 3.02s[0m
+[0m2022.03.08 14:39:41 WARN  Build server is not auto-connectable.[0m
+[0m2022.03.08 14:39:41 WARN  no build tool detected in workspace '/home/Jahrebel/Documentos/cursos_de_Platzi/Curso_html_css3_js/introducción_react/myproyect-app'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.03.09 00:32:00 INFO  shutting down Metals[0m
+[0m2022.05.25 12:17:35 INFO  Started: Metals version 0.10.9 in workspace '/home/Jahrebel/Documentos/cursos_de_Platzi/Curso_html_css3_js/introducción_react/nivel_1/myproyect-app' for client Visual Studio Code 1.58.2.[0m
+[0m2022.05.25 12:17:39 INFO  time: initialize in 3.71s[0m
+[0m2022.05.25 12:17:45 WARN  Build server is not auto-connectable.[0m
+[0m2022.05.25 12:17:45 WARN  no build tool detected in workspace '/home/Jahrebel/Documentos/cursos_de_Platzi/Curso_html_css3_js/introducción_react/nivel_1/myproyect-app'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m

@@ -21,4 +21,5 @@
 
 .TodoSearch:focus {
     outline-color: #61DAFA;
+    border-radius: 15px;
 }

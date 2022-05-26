@@ -19,5 +19,8 @@
         "titleBar.inactiveForeground": "#e7e7e799",
         "editorGroup.border": "#2f7c47"
     },
-    "peacock.color": "#215732"
+    "peacock.color": "#215732",
+    "files.watcherExclude": {
+        "**/target": true
+    }
 }
